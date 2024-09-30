@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/My%20files/AI%20Cluv/Projects/Project%202/archive/mlruns/0/48cabd871251491494241975d65ff0a9/artifacts
+end_time: 1727676872527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48cabd871251491494241975d65ff0a9
+run_name: ./vilt-vqa-rad-finetuned
+run_uuid: 48cabd871251491494241975d65ff0a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727674722323
+status: 3
+tags: []
+user_id: ASUS
